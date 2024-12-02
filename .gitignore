@@ -2,3 +2,7 @@
 Amazon_Beauty_Recommendation.csv
 best_model.keras
 fine_tuned_recommendation_model.keras
+item_embeddings.pkl
+merged_item_embeddings.pkl
+user_embeddings.pkl
+product_embeddings.pkl
